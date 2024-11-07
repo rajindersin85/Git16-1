@@ -1,4 +1,4 @@
 
 resource "azurerm_resource_group" "example" {
   name     = "example"
-  location = "raj1"
+  location = "raj2"
